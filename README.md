@@ -61,9 +61,9 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: _Add your LinkedIn URL_
+- 💼 LinkedIn: https://www.linkedin.com/in/kartik-vaghani-1489b4aa/
 - 🌐 Portfolio: _Add your portfolio link_
-- 📧 Email: _Add your email_
+- 📧 Email: kartikpatel868@gmail.com
 
 ---
 
