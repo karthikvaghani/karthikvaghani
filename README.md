@@ -40,7 +40,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikvaghani&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikvaghani&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/kartik-vaghani-1489b4aa/
-- 🌐 Portfolio: _Add your portfolio link_
+- 🌐 Portfolio: https://kartik-portfolio-d5bf1.web.app/
 - 📧 Email: kartikpatel868@gmail.com
 
 ---
